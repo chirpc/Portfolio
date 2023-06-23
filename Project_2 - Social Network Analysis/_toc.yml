@@ -1,0 +1,23 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: INTRODUCTION.ipynb
+chapters:
+- file: PART_I.ipynb
+- file: PART_II.ipynb
+- file: PART_III.ipynb
+- file: PART_IV.ipynb
+- file: PART_I-A.ipynb
+- file: PART_II-A.ipynb
+- file: PART_III-A.ipynb
+- file: PART_IV-A.ipynb
+- file: PART_I-B.ipynb
+- file: PART_II-B.ipynb
+- file: PART_III-B.ipynb
+- file: PART_IV-B.ipynb
+- file: PART_I-C.ipynb
+- file: PART_II-C.ipynb
+- file: PART_III-C.ipynb
+- file: PART_IV-C.ipynb
+
