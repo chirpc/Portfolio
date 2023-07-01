@@ -18,3 +18,6 @@ This portfolio is designed to showcase my professional work and projects in data
 ![senekal_kmeans_1](https://github.com/chirpc/Portfolio/assets/10565766/d860d442-8117-4ee5-87d9-7dc954cde25e)
 ![wordcloud_bigram_senekal_Leader](https://github.com/chirpc/Portfolio/assets/10565766/bdb069ad-f22d-49e0-a09c-dca861b50360)
 ![wordcloud_bigram_senekal_Informer](https://github.com/chirpc/Portfolio/assets/10565766/1fa7d527-63fb-4ef0-b5cb-ccb39080e1ca)
+
+------
+## Project Spotlight - Digital Adoption
