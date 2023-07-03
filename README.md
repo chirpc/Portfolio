@@ -19,9 +19,10 @@ Forthcoming
 ## Project Spotlight - Hate Speech on Twitter
 
 
-![Senekal - Indegree](https://github.com/chirpc/Portfolio/assets/10565766/9c81aebf-f8e2-4ed5-a469-8a88991534dc)
-![Senekal - Outdegree](https://github.com/chirpc/Portfolio/assets/10565766/0869a01e-f811-4790-9015-f26f483081b0)
-![Senekal - Word Cloud](https://github.com/chirpc/Portfolio/assets/10565766/2039752c-9b7a-4cc8-8ea8-2053a950e67b)
-![Senekal - Role Players](https://github.com/chirpc/Portfolio/assets/10565766/3ab966ed-44c7-4683-966a-39608791ec84)
-![Senekal - Leader Cloud](https://github.com/chirpc/Portfolio/assets/10565766/c602b61b-ccd2-451b-b91d-a237e36a0fd0)
-![Senekal - Informer Cloud](https://github.com/chirpc/Portfolio/assets/10565766/d7ec82c1-ed8e-4e0c-b8ae-1b343c1d0232)
+
+![Senekal - Indegree](https://github.com/chirpc/Portfolio/assets/10565766/67e3eb83-c02f-4762-bddf-61907e22b1e3)
+![Senekal - Outdegree](https://github.com/chirpc/Portfolio/assets/10565766/0ab19b21-a57e-4434-8477-d2e3ff1dea78)
+![Senekal - Word Cloud](https://github.com/chirpc/Portfolio/assets/10565766/599af6c3-aa6e-4545-a466-2edfee9a819d)
+![Senekal - Role Players](https://github.com/chirpc/Portfolio/assets/10565766/702c23d9-2912-48ab-a3ac-4ca515d02ee6)
+![Senekal - Leader Cloud](https://github.com/chirpc/Portfolio/assets/10565766/c44d31f1-0c86-4824-8caf-9572451633d0)
+![Senekal - Informer Cloud](https://github.com/chirpc/Portfolio/assets/10565766/52925cdf-2f26-4919-8b5a-5b84235e53b1)
