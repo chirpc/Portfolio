@@ -2,6 +2,11 @@
 # Portfolio
 This portfolio is designed to showcase my professional work and projects in data analytics and science, ranging from exploratory data analysis, visualisations, and machine learning in Python, R, SQL, Tableau, and Google Data Studio.
 
+------
+## Project Spotlight - Digital Adoption
+
+Forthcoming
+
 -------
 ## Project Spotlight - Financial Inclusion in Tanzania
 
@@ -13,4 +18,9 @@ This portfolio is designed to showcase my professional work and projects in data
 ------
 ## Project Spotlight - Hate Speech on Twitter
 
+![senekal_feat_ind_1](https://github.com/chirpc/Portfolio/assets/10565766/2327b2b8-17d3-4734-8280-319d7e7db0f0)
+![senekal_feat_out_1](https://github.com/chirpc/Portfolio/assets/10565766/8d105006-fa0c-4700-aed6-ae4cbbb1f269)
+![senekal_kmeans_1](https://github.com/chirpc/Portfolio/assets/10565766/d860d442-8117-4ee5-87d9-7dc954cde25e)
+![wordcloud_bigram_senekal_Leader](https://github.com/chirpc/Portfolio/assets/10565766/bdb069ad-f22d-49e0-a09c-dca861b50360)
+![wordcloud_bigram_senekal_Informer](https://github.com/chirpc/Portfolio/assets/10565766/1fa7d527-63fb-4ef0-b5cb-ccb39080e1ca)
 
