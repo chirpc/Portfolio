@@ -1,0 +1,29 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: 0_INTRODUCTION.ipynb
+chapters:
+- file: I_Descriptive_Analysis/PART_I.ipynb
+- file: II_Community_Analysis/PART_II.ipynb
+- file: III_Positional_Analysis/PART_III.ipynb
+- file: IV_Diffusion_Analysis/PART_IV.ipynb
+- caption: Senekal
+chapters:
+- file: I_Descriptive_Analysis/PART_I-A.ipynb
+- file: II_Community_Analysis/PART_II-A.ipynb
+- file: III_Positional_Analysis/PART_III-A.ipynb
+- file: IV_Diffusion_Analysis/PART_IV-A.ipynb
+- caption: Brackenfell
+chapters:
+- file: I_Descriptive_Analysis/PART_I-B.ipynb
+- file: II_Community_Analysis/PART_II-B.ipynb
+- file: III_Positional_Analysis/PART_III-B.ipynb
+- file: IV_Diffusion_Analysis/PART_IV-B.ipynb
+- caption: PutSAFirst
+chapters:
+- file: I_Descriptive_Analysis/PART_I-C.ipynb
+- file: II_Community_Analysis/PART_II-C.ipynb
+- file: III_Positional_Analysis/PART_III-C.ipynb
+- file: IV_Diffusion_Analysis/PART_IV-C.ipynb
+
