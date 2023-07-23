@@ -33,11 +33,11 @@ Using data on mobile money use of individuals in Tanzania, as well as spatial da
 
 Additional questions of interest: 
 
-1. What the current take-up for financial products is across different dimensions, i.e location, age, gender etc:
+1. What is the current take-up for financial products across different dimensions, i.e location, age, gender etc:
 2. What variables appear the most correlated with the take-up?
 3. What is the most common/important use for financial products?
-4. There is adoption most prevelant (region)?
-4. The average distance between a financial access points?
+4. Where is adoption most prevelant (region)?
+4. The nearest distance to financial access points?
 5. The number of financial access points within a specified radius?
  
 
@@ -51,7 +51,7 @@ Additional questions of interest:
 
 #### Libraries
 
-- scikit-learn
+- scikit-learn, arcgis, geopy
 
 ------
 ## Project Spotlight - Hate Speech on Twitter
