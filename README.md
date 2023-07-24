@@ -16,7 +16,7 @@ Forthcoming
 
 #### Context
 
-Financial inclusion means that individuals and businesses have access to useful and affordable financial products and services that meet their needs – transactions, payments, savings, credit and insurance – delivered in a responsible and sustainable way. It also facilitates day-to-day living, and helps families and businesses plan for everything from long-term goals to unexpected emergencies (WB).
+Financial inclusion means that individuals and businesses have access to useful and affordable financial products and services that meet their needs â€“ transactions, payments, savings, credit and insurance â€“ delivered in a responsible and sustainable way. It also facilitates day-to-day living, and helps families and businesses plan for everything from long-term goals to unexpected emergencies (WB).
 
 However, there is an estimated 2 billion individuals who remain unbanked or underbanked, majority of whom are African and living in rural and isolate areas. The past 10 years have seen a rapid growth in the mobile money market as financial institutions ramp up investmrents, opening up new channels of development in mobile money applications that deliver more efficient, effective, and accessible financial services services through mobile phone networks. 
 
@@ -104,6 +104,7 @@ I explore the networks further using clustering methods and conduct positional a
 
 The users assigned to each of these roles were fairly consistent across the networks. Typically, members of political parties were positioned in the *Leader* role, and news agencies in the *Informer* role. The most active voices in the discourse, sharing the most tweets, were usually outliers assigned to the *Activator* role, while the least active and most distant were users in the *Observer* role. Active users who held positions in the network that connected distant users were classified in the *Spreader* role.
 
+![senekal_interactions_1](https://github.com/chirpc/Portfolio/assets/10565766/5c9a94a3-528e-4219-90d8-98e70022ff4a)
 ![Senekal - Indegree](https://github.com/chirpc/Portfolio/assets/10565766/fbec4f26-e86d-4fc2-a3d3-59c8e60de235)
 ![Senekal - Outdegree](https://github.com/chirpc/Portfolio/assets/10565766/7877e306-963d-4f1c-a100-f630f0fa3b14)
 ![Senekal - Word Cloud](https://github.com/chirpc/Portfolio/assets/10565766/193651fc-106f-4314-88b9-1e33cb06a939)
