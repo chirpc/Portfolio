@@ -20,7 +20,9 @@ Financial inclusion means that individuals and businesses have access to useful 
 
 However, there is an estimated 2 billion individuals who remain unbanked or underbanked, majority of whom are African and living in rural and isolate areas. The past 10 years have seen a rapid growth in the mobile money market as financial institutions continue to invest, opening up new channels of development in mobile money applications that deiver financial services services through mobile phone networks. 
 
-Given that there are currently 2.6 billion smartphone subscriptions globally — a number that’s expected to hit 6.1 billion by 2020, it might be helpful to try understand the decision mechanisms that drive mobile money adoption. Thus findings from this analysis could help increase penetration in unbanked/underbanked markets across Tanzania and rest of Africa (i.e. increase financial inclusion by decreasing the number of unbanked).
+Given that in year () there were 2.6 billion smartphone subscriptions globally — a number that was forecasted to hit 6.1 billion by 2020, it mmakes sense why so much interest is placed on understanding the decision mechanisms driving mobile money use. 
+
+Hence, this analysis contributes to the problem of increased penetration in unbanked/underbanked markets across Tanzania and rest of Africa.
 
 #### Objectives
 
