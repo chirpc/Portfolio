@@ -18,11 +18,10 @@ Forthcoming
 
 Financial inclusion means that individuals and businesses have access to useful and affordable financial products and services that meet their needs – transactions, payments, savings, credit and insurance – delivered in a responsible and sustainable way. It also facilitates day-to-day living, and helps families and businesses plan for everything from long-term goals to unexpected emergencies (WB).
 
-However, there is an estimated 2 billion individuals who remain unbanked or underbanked, majority of whom are African and living in rural and isolate areas. The past 10 years have seen a rapid growth in the mobile money market as financial institutions continue to invest, opening up new channels of development in mobile money applications that deiver financial services services through mobile phone networks. 
+However, there is an estimated 2 billion individuals who remain unbanked or underbanked, majority of whom are African and living in rural and isolate areas. The past 10 years have seen a rapid growth in the mobile money market as financial institutions ramp up investmrents, opening up new channels of development in mobile money applications that deliver more efficient, effective, and accessible financial services services through mobile phone networks. 
 
-Given that in year () there were 2.6 billion smartphone subscriptions globally — a number that was forecasted to hit 6.1 billion by 2020, it mmakes sense why so much interest is placed on understanding the decision mechanisms driving mobile money use. 
+With over 6.1 billion smartphone subscriptions forecasted globally, and over 50% of African adults reporting to use mobile money services, the mobile money market is set to attract larger investments as digital technologies advance across the developing and unbanked countries. 
 
-Hence, this analysis contributes to the problem of increased penetration in unbanked/underbanked markets across Tanzania and rest of Africa.
 
 #### Objectives
 
@@ -38,18 +37,28 @@ Additional questions of interest:
 1. What is the current take-up for financial products across different dimensions, i.e location, age, gender etc:
 2. What variables appear the most correlated with the take-up?
 3. What is the most common/important use for financial products?
+4. Does the presence of traditional banking infrastructure affect take-up?
 4. Where is adoption most prevelant (region)?
 4. The nearest distance to financial access points?
 5. The number of financial access points within a specified radius?
  
 
+
 #### Findings
+
+Forthcoming
 
 ![Map 1 - Financial Access - High Traffic Areas](https://github.com/chirpc/Portfolio/assets/10565766/9fd4d69a-4f9d-4337-82a5-fb5097a79545)
 ![Map 2 - Financial Access - Serviced Areas](https://github.com/chirpc/Portfolio/assets/10565766/39103a12-ec64-4677-99aa-ec5639da516c)
 ![Map 3 - Financial Access - Filling a Gap](https://github.com/chirpc/Portfolio/assets/10565766/52e64324-e6d2-4aa6-8564-1b0fc24a1ac1)
 ![Map 4 - Financial Access - Gaps in the Market](https://github.com/chirpc/Portfolio/assets/10565766/20f3004c-c66b-4073-8e74-895800c2b7a2)
 
+
+#### Limitations
+
+- The lack of data on cost of services and transaction times limits our ability to fully track decision making. 
+
+#### Conclusions
 
 #### Libraries
 
