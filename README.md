@@ -18,7 +18,7 @@ Forthcoming
 
 Financial inclusion means that individuals and businesses have access to useful and affordable financial products and services that meet their needs – transactions, payments, savings, credit and insurance – delivered in a responsible and sustainable way. It also facilitates day-to-day living, and helps families and businesses plan for everything from long-term goals to unexpected emergencies (WB).
 
-However, there is an estimated 2 billion individuals who remain unbanked or underbanked, majority of which are Africans. Much of this hare is concentrated in rural and isolate areas. The past 10 years have seen a rapid growth in the mobile money market as financial institutions continue to invest, opening up new channels of development in mobile money applications that deiver financial services services through mobile phone networks. 
+However, there is an estimated 2 billion individuals who remain unbanked or underbanked, majority of whom are African and living in rural and isolate areas. The past 10 years have seen a rapid growth in the mobile money market as financial institutions continue to invest, opening up new channels of development in mobile money applications that deiver financial services services through mobile phone networks. 
 
 Given that there are currently 2.6 billion smartphone subscriptions globally — a number that’s expected to hit 6.1 billion by 2020, it might be helpful to try understand the decision mechanisms that drive mobile money adoption. Thus findings from this analysis could help increase penetration in unbanked/underbanked markets across Tanzania and rest of Africa (i.e. increase financial inclusion by decreasing the number of unbanked).
 
