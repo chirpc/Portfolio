@@ -16,11 +16,11 @@ Forthcoming
 
 #### Context
 
-Financial inclusion means that individuals and businesses have access to useful and affordable financial products and services that meet their needs – transactions, payments, savings, credit and insurance – delivered in a responsible and sustainable way. It also facilitates day-to-day living, and helps families and businesses plan for everything from long-term goals to unexpected emergencies (WB).
+Financial inclusion means that individuals and businesses have access to valuable and affordable financial products and services that meet their needs – transactions, payments, savings, credit, and insurance – delivered in a responsible and sustainable way. It also facilitates day-to-day living and helps families and businesses plan for everything from long-term goals to unexpected emergencies (WB).
 
-However, there is an estimated 2 billion individuals who remain unbanked or underbanked, majority of whom are African and living in rural and isolate areas. The past 10 years have seen a rapid growth in the mobile money market as financial institutions ramp up investmrents, opening up new channels of development in mobile money applications that deliver more efficient, effective, and accessible financial services services through mobile phone networks. 
+However, there is an estimated 2 billion individuals who remain unbanked or underbanked, the majority of whom are African and living in rural and isolated areas. The past 10 years have seen rapid growth in the mobile money market as financial institutions ramp up investments, opening up new channels of development in mobile money applications that deliver more efficient and effective financial services that target the right consumer. 
 
-With over 6.1 billion smartphone subscriptions forecasted globally, and over 50% of African adults reporting to use mobile money services, the mobile money market is set to attract larger investments as digital technologies advance across the developing and unbanked countries. 
+With over 6.1 billion smartphone subscriptions forecasted globally, and over 50% of African adults reporting to use mobile money services, the mobile money market is set to attract larger investments as digital technologies advance and become more accessible. 
 
 
 #### Objectives
@@ -36,9 +36,9 @@ Additional questions of interest:
 
 1. What is the current take-up for financial products across different dimensions, i.e location, age, gender etc:
 2. What variables appear the most correlated with the take-up?
-3. What is the most common/important use for financial products?
+3. What is the most common/essential use for financial products?
 4. Does the presence of traditional banking infrastructure affect take-up?
-4. Where is adoption most prevelant (region)?
+4. Where is adoption most prevalent (region)?
 4. The nearest distance to financial access points?
 5. The number of financial access points within a specified radius?
  
@@ -56,7 +56,7 @@ Forthcoming
 
 #### Limitations
 
-- The lack of data on cost of services and transaction times limits our ability to fully track decision making. 
+- The lack of data on the cost of services and transaction times limits our ability to fully track decision-making. 
 
 #### Conclusions
 
@@ -69,15 +69,15 @@ Forthcoming
 
 #### Context
 
-Networks form the building blocks of any group of people, organisations, entities; basically anything that can be defined as having a relation. The most familiar of these networks are online social network platforms like Facebook, Instagram, Twitter, LinkedIn, etc., where a link between users is establised through a follow, a comment, a like, or a post. Online social media and associated social networks are increasingly becoming an important forum for public debate and influence of individual attitudes and behaviours. In many cases, the decisive actions required to tackle the complex and divisive issues that permeate society can been found in the perceptions and opinions of those with which these connections are formed.
+Networks form the building blocks of any group of people, organisations, entities; basically anything that can be defined as having a relation. The most familiar of these networks are online social network platforms like Facebook, Instagram, Twitter, LinkedIn, etc., where a link between users is established through a follow, a comment, a like, or a post. Online social media and associated social networks are increasingly becoming an important forum for public debate and influence individual attitudes and behaviours. In many cases, the decisive actions required to tackle the complex and divisive issues that permeate society can be found in the perceptions and opinions of those with which these connections are formed.
 
 #### Objectives
 
-Similar to strategies used in network interventions that rely on the social interactions and relationships that individuals have with each other to facilitate a change in behaviour or promote the adoption of a new idea, this study will explore the nature of social networks in online discourses. Specifically in the discourses of the #Senekal, #Brackenfell and #PutSAFirst movements. Critical to the success of these intervention programmes is knowing and understanding the context of the problem as well as the the people, positions and groups that potentially influence the outcome. The main objectives of this analysis are therefore to:
+Similar to strategies used in network interventions that rely on the social interactions and relationships that individuals have with each other to facilitate a change in behaviour or promote the adoption of a new idea, this study will explore the nature of social networks in online discourses. Specifically in the discourses of the #Senekal, #Brackenfell and #PutSAFirst movements. Critical to the success of these intervention programmes is knowing and understanding the context of the problem as well as the people, positions and groups that potentially influence the outcome. The main objectives of this analysis are therefore to:
 
 1. Identify key persons of influence based on network properties; 
 2. Detect group structures formed by persons sharing common goals, interests, or positions; and 
-3. Delineate a process in which the spread and adoption of social behaviour is affected by the role or position of the person propagating the discourse. 
+3. Delineate a process in which the spread and adoption of social behaviour are affected by the role or position of the person propagating the discourse. 
 
 The report is organised as follows:
 
@@ -88,15 +88,15 @@ The report is organised as follows:
 
 #### Findings
 
-The #Senekal, #Brackenfell and #PutSAFirst movements exhibit similar descriptive properties. Online users in these networks are found to have a tendency or preferential attachment toward popular users. This means a significant proportion of engagements or interactions in the network are with or between those most prominent or central in the discourse. Users in this network also share tighter and closer bonds with each other than would be expected in a random network. In other words, users would rather communicate within a close knit group than to communicate with others outside those groups. This also indicates a greater likelihood of "echo chambers", where opposite or contradicting views never enter discussions and are easily dismissed. Naturally, this would limit the ability for ideas to be shared, information to be discredited, and perceptions to be changed. 
+The #Senekal, #Brackenfell and #PutSAFirst movements exhibit similar descriptive properties. Online users in these networks are found to have a tendency or preferential attachment toward popular users. This means a significant proportion of engagements or interactions in the network are with or between those most prominent or central in the discourse. Users in this network also share tighter and closer bonds with each other than would be expected in a random network. In other words, users would rather communicate within a close-knit group than communicate with others outside those groups. This also indicates a greater likelihood of "echo chambers", where opposite or contradicting views never enter discussions and are easily dismissed. Naturally, this would limit the ability for ideas to be shared, information to be discredited, and perceptions to be changed. 
 
-I explore the networks further using clustering methods and conduct positional analysis using feature based techniques to group users in similar positions or roles based on patterns of interactions and distinct features. Results from the analysis generally revealed 5 distinct clusters. Based on the users assigned to each cluster, I classified them as follows:
+I explore the networks further using clustering methods and conduct positional analysis using feature-based techniques to group users in similar positions or roles based on patterns of interactions and distinct features. Results from the analysis generally revealed 5 distinct clusters. Based on the users assigned to each cluster, I classified them as follows:
 
 >Observer Role: Periphery users that are far away from the centre of the discourse and have little participation or involvement.
 >
 >Spreader Role: Bridge users that are connected to users in various positions and can easily spread information across the network.
 >
->Activator Role: Active users that reply to tweets and have a high interaction and engagement with other users.
+>Activator Role: Active users that reply to tweets and have high interaction and engagement with other users.
 >
 >Informer Role: Public users that have many followers, are publicly listed and have a high global tweet count.
 >
