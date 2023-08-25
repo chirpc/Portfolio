@@ -104,6 +104,7 @@ I explore the networks further using clustering methods and conduct positional a
 
 The users assigned to each of these roles were fairly consistent across the networks. Typically, members of political parties were positioned in the *Leader* role, and news agencies in the *Informer* role. The most active voices in the discourse, sharing the most tweets, were usually outliers assigned to the *Activator* role, while the least active and most distant were users in the *Observer* role. Active users who held positions in the network that connected distant users were classified in the *Spreader* role.
 
+
 ![Senekal - Indegree](https://github.com/chirpc/Portfolio/assets/10565766/fbec4f26-e86d-4fc2-a3d3-59c8e60de235)
 ![Senekal - Outdegree](https://github.com/chirpc/Portfolio/assets/10565766/7877e306-963d-4f1c-a100-f630f0fa3b14)
 ![Senekal - Word Cloud](https://github.com/chirpc/Portfolio/assets/10565766/193651fc-106f-4314-88b9-1e33cb06a939)
